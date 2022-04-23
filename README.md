@@ -36,7 +36,12 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">GitHub Stats:</h3>
 
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabuhumra&show_icons=true&locale=en&show_icons=true&hide_border=true&theme=tokyonight" alt="aliabuhumra" />
+  
+</details> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabuhumra&show_icons=true&locale=en" alt="aliabuhumra" /></p>
